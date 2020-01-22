@@ -6,7 +6,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="keywords" content="{{ page.tags | default: site.keywords | join: ',' }}">
-    <meta name="author" content="Jun Yang (harttle)">
+    <meta name="author" content="Ziqia Lin">
     <meta name="description" content="{{page.excerpt | default: site.description | strip_html | strip_newlines | truncate: 128}}">
     <meta name="theme-color" content="#5ABA59">
     {% feed_meta %}
@@ -26,13 +26,14 @@
         <a class="glow no-decoration" href="/archive.html">归档</a>
         <a class="glow no-decoration" href="/about.html">关于</a>
       </nav>
-      <a class="logo no-decoration" href="/" aria-label="Harttle Land">{% include logo.html %}</a>
+      <a class="logo no-decoration" href="/" aria-label="Ziqia Lin">{% include logo.html %}</a>
     </header>
     {{ content }}
     <footer>
       <div class="container ellipsis">
-        Powered by <a href="//jekyllrb.com/" target="_blank">Jekyll</a>
-        and proudly hosted by <a href="//github.com/harttle/harttle.github.io">Github</a>,
+        Powered by <a href="//jekyllrb.com/" target="_blank">Jekyll</a>,
+		    theme by <a href="https://harttle.land">Harttle Land</a>
+        and proudly hosted by <a href="//github.com/ziqia/ziqia.github.io">Github</a>,
         licensed under <a href="http://creativecommons.org/licenses/by/4.0/">CC-BY 4.0</a>.
       </div>
       <a href="#" id="btnScrolltop">&#x1f51d;</a>

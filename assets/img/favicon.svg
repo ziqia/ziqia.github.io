@@ -1,3 +1,52 @@
-<svg xmlns="http://www.w3.org/2000/svg" fill="#5aba59" viewBox="0 0 448 512" stroke="none">
-  <path d="M448 80v352a48 48 0 0 1-48 48H48a48 48 0 0 1-48-48V80a48 48 0 0 1 48-48h352a48 48 0 0 1 48 48zm-112 48h-32a16 16 0 0 0-16 16v80H160v-80a16 16 0 0 0-16-16h-32a16 16 0 0 0-16 16v224a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16v-80h128v80a16 16 0 0 0 16 16h32a16 16 0 0 0 16-16V144a16 16 0 0 0-16-16z"/>
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 favicon.svg Page-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="11.6929in" height="8.26772in" viewBox="0 0 841.89 595.276" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st4">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {visibility:visible}
+		.st2 {fill:none;filter:url(#filter_2);stroke:#5b9bd5;stroke-opacity:0.22}
+		.st3 {fill:none;stroke:#007f7f;stroke-width:6}
+		.st4 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Filters">
+		<filter id="filter_2">
+			<feGaussianBlur stdDeviation="2"/>
+		</filter>
+	</defs>
+	<g>
+		<title>页-1</title>
+		<g id="shape1-1" transform="translate(163.236,-376.324)">
+			<title>正方形</title>
+			<g id="shadow1-2" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="481.89" width="113.386" height="113.386" class="st2"/>
+			</g>
+			<rect x="0" y="481.89" width="113.386" height="113.386" class="st3"/>
+		</g>
+		<g id="shape2-6" transform="translate(186.128,-399.215)">
+			<title>正方形.2</title>
+			<g id="shadow2-7" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="527.673" width="67.6024" height="67.6024" class="st2"/>
+			</g>
+			<rect x="0" y="527.673" width="67.6024" height="67.6024" class="st3"/>
+		</g>
+		<g id="shape4-11" transform="translate(297.638,-376.324)">
+			<title>矩形</title>
+			<g id="shadow4-12" transform="matrix(1,0,0,1,0.345598,1.97279)" class="st1">
+				<rect x="0" y="481.89" width="42.5197" height="113.386" class="st2"/>
+			</g>
+			<rect x="0" y="481.89" width="42.5197" height="113.386" class="st3"/>
+		</g>
+		<g id="shape5-16" transform="translate(758.512,240.945) rotate(90)">
+			<title>矩形.5</title>
+			<g id="shadow5-17" transform="matrix(1,0,0,1,1.97279,-0.345598)" class="st1">
+				<rect x="0" y="481.89" width="42.5197" height="113.386" class="st2"/>
+			</g>
+			<rect x="0" y="481.89" width="42.5197" height="113.386" class="st3"/>
+		</g>
+	</g>
 </svg>

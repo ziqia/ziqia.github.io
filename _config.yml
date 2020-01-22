@@ -1,14 +1,13 @@
-title: Harttle Land
-description: 分享技术，共建开放平台
-url: https://harttle.land
-author: Harttle
-email: yangjvn@126.com
+title: Ziqia Lin
+description: 爪巴
+url: https://ziqia.github.io
+author: Ziqia
+email: linhp3@163.com
 logo: assets/img/favicon.png
 keywords: 
   - Web
   - C++
   - Linux
-  - Vim
 
 permalink: /:year/:month/:day/:title.html
 paginate: 7
@@ -23,7 +22,7 @@ kramdown:
   input: GFM
   hard_wrap: false
 
-ga: 'UA-65795020-1'
+ga: 'UA-156687897-1'
 
 sass:
     style: compressed

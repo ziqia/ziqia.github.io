@@ -1,2 +1,2 @@
-Sitemap: https://harttle.land/sitemap.xml
+Sitemap: https://ziqia.github.io/sitemap.xml
 User-agent: *
