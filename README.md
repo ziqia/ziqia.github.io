@@ -44,6 +44,7 @@ bundle install
 vim _config.yml
 ```
 
-执行 `npm start` 启动，即可访问： <http:/localhost:4000>
+执行 `npm start` 启动，即可访问： <http://localhost:4000>
+如果你是使用WSL进行编辑, 在Windows上需通过 <http://[wsl-hostname]:4000> 进行访问
 
 [license]: https://github.com/harttle/harttle.github.io/blob/master/LICENSE
